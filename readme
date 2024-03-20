@@ -1,4 +1,6 @@
 https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=schedule
 This repository contains self learned RTL2GDS implementation of a RISC based microprocessor.
 We will start with sequential and stored program execution i.e. Von-Neuman architecture with mild flavour of data-flow architecture wherever needed for improvements
-we will try to develop our processor by implementing each intruction as mentioned in https://safari.ethz.ch/digitaltechnik/spring2023/lib/exe/fetch.php?media=mips_reference_data.pdf
+we will try to develop our processor by implementing each intruction as mentioned in https://www.youtube.com/watch?v=25oZ7yMmgmw&list=PL1C2GgOjAF-JSlKHoSDOYVoF0lyCd76DD&index=2
+
+https://safari.ethz.ch/digitaltechnik/spring2023/lib/exe/fetch.php?media=mips_reference_data.pdf
