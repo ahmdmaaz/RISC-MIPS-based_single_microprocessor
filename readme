@@ -4,3 +4,5 @@ We will start with sequential and stored program execution i.e. Von-Neuman archi
 we will try to develop our processor by implementing each intruction as mentioned in https://www.youtube.com/watch?v=25oZ7yMmgmw&list=PL1C2GgOjAF-JSlKHoSDOYVoF0lyCd76DD&index=2
 
 https://safari.ethz.ch/digitaltechnik/spring2023/lib/exe/fetch.php?media=mips_reference_data.pdf
+
+https://en.wikibooks.org/wiki/MIPS_Assembly/Instruction_Formats#Opcodes
