@@ -1,0 +1,2 @@
+Fpr R-type instruction (add/subtract only) we can use a single memory, while if we are designing load instruction microarchitecture we need separarte data and instruction memory
+because seelector before single data/instruction memory needs a control logic(in fetch stage) which is available only after decode stage.
