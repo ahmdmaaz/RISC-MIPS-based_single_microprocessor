@@ -1,2 +1,3 @@
 in sinngle cycle execution we cannot use exixting ALU to calculate adress for jump instruiction as selector before memory will use a control signal (in fetch stage) which is 
 produced itself in decode stage
+update = not needed anymore
