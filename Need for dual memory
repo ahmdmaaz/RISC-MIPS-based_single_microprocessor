@@ -2,3 +2,5 @@ Fpr R-type instruction (add/subtract only) we can use a single memory, while if 
 because seelector before single data/instruction memory needs a control logic(in fetch stage) which is available only after decode stage.
 
 in multicycle execution due to presence of registers we donty need additional memory as we needed in single cycle.
+
+In single cycle processor we need to access memory twice for some instructions so we need separate data memory and instruction memory
