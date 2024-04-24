@@ -1,0 +1,1 @@
+since load instruction requires memory access twice we need to extend our clock cycle time to complete instruction in 1 cycle
